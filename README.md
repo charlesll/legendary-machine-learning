@@ -7,16 +7,19 @@ It will be populated depending on the tests I do, results I get as well as free 
 
 # Test of the size/sparsity of dataset : deep or shallow networks?
 
-The notebooks Test_MLSize***.ipynb are test of using deep or shallow networks for regression
+The notebooks 'Test_MLSize***.ipynb' are test of using deep or shallow networks for regression
 over sparse, small datasets (synthetic)
+
+
+'Fitting a decreasing exp function with scikit learn.ipynb' also provide an example on a very simple problem, using scikit learn.
 
 # Combining neural network with equations
 
-The notebook(s) ML_plusEquations***.ipynb contain examples of using custom networks with equations.
+The notebook(s) 'ML_plusEquations***.ipynb' contain examples of using custom networks with equations.
 
 # Contributing
 
-Feel free to send corrections/contributions/suggestions !
+Feel free to send corrections/contributions/suggestions!
 
 # License
 
